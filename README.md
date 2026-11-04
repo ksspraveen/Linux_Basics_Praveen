@@ -15,4 +15,4 @@ bash linux_basics.sh
 
 ## GitHub
 After creating your GitHub repository, replace this placeholder with its URL:
-`https://github.com/YOUR_USERNAME/Linux_Basics_Praveen`
+`https://github.com/ksspraveen/Linux_Basics_Praveen`
